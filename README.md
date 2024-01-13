@@ -58,9 +58,10 @@
 
 **한계**
 
-- Airflow로 주기적으로 데이터를 스크래핑해오도록 구현하려 하였지만 standalone 상태의 Airflow에서의 selenium 작동 오류로 구현하지 못함
+- Airflow로 주기적으로 데이터를 스크래핑해오도록 구현하려 하였지만 로컬 standalone 상태의 Airflow에서 selenium 작동 오류로 구현하지 못함
 - selenium의 높은 리소스 점유율과, 속도 문제
 
 **개선 방안**
 
-- 리소스 활용도 향상을 위한 requests와 bs4, 그리고 멀티 프로세싱으로 속도 개선
+- requests와 bs4, 그리고 멀티 프로세싱을 활용한 코드 개선으로 속도 개선 및 리소스 사용량 최소화
+- Airflow를 통한 데이터 스크래핑 자동화
