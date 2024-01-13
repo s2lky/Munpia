@@ -47,6 +47,13 @@
 2. AWS EC2를 통한 크롤링 및 DB 적재
 3. Flask를 통해 DB와의 통신으로 유저에게 소설 데이터 제공
 
+### 프로젝트 구현 내용
+
+1. 크롤러 개발 및 DB 구축
+2. FLASK를 통한 USER와의 통신
+![Flask1](https://github.com/s2lky/Munpia/assets/132236456/34e44d19-07fa-4282-9a51-b53d6c8de258)
+![Flask2](https://github.com/s2lky/Munpia/assets/132236456/9c714ba4-9248-4267-ae6e-a7bd276788b6)
+
 ### 프로젝트 한계 및 개선 방안
 
 **한계**
