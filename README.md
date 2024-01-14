@@ -31,11 +31,6 @@
 - **Database**
     
     ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-    
-- **Tools**
-    
-    ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-    
 
 **Flask 선택 이유**
 
