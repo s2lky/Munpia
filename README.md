@@ -4,7 +4,7 @@
 
 **프로젝트 기간:** 2023.08.29 ~ 2023.09.12 (2주)
 
-**프로젝트 도구:** Flask, MySQL, Github
+**프로젝트 도구:** AWS EC2, Flask, MySQL, Github
 
 **사용 언어:** Python, SQL
 
